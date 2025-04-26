@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/sitemap.xml
+
+Disallow: /*.qmd$
+Disallow: /*.ipynb$

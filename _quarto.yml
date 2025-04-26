@@ -6,10 +6,12 @@ project:
 website:
   repo-url: https://github.com/Christian-F-Badillo/Blog-The-Likelihood-Cult
   repo-actions: [issue, edit, source]
+  
   title: "The Likelihood Cult"
+  site-url: https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/
+  description: "Este sitio explora los fundamentos de los métodos estadísticos que usamos (y abusamos) todos los días. Aquí no encontrarás recetas rápidas, sino explicaciones desde la raíz: teoría, visualizaciones, y simulaciones."
 
   reader-mode: true
-
 
   navbar:
     logo: img\blog\logo-blog.png
@@ -78,3 +80,6 @@ execute:
   cache: true
   freeze: auto
 
+resources: 
+  - robots.txt
+  - 404.html
