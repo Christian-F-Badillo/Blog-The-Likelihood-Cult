@@ -1,30 +1,58 @@
 [
   {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts.\n\n\n\n Volver arriba"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Bienvenid@ a The Likelihood Cult 👁️‍🗨️",
+    "section": "",
+    "text": "Este sitio explora los fundamentos de los métodos estadísticos que usamos (y abusamos) todos los días. \n    Aquí no encontrarás recetas rápidas, sino explicaciones desde la raíz: teoría, visualizaciones, y simulaciones. \n  \n  ¡Únete al culto de la verosimilitud!"
+  },
+  {
+    "objectID": "index.html#explora",
+    "href": "index.html#explora",
+    "title": "Bienvenid@ a The Likelihood Cult 👁️‍🗨️",
+    "section": "Explora",
+    "text": "Explora\n\n📚 Blog: Ejemplos con código y teoría.\n🔗 Sobre mí: Descubre quién soy."
+  },
+  {
+    "objectID": "index.html#contribuye",
+    "href": "index.html#contribuye",
+    "title": "Bienvenid@ a The Likelihood Cult 👁️‍🗨️",
+    "section": "Contribuye",
+    "text": "Contribuye\nSi te gusta el contenido, considera contribuir. Puedes hacerlo de varias maneras:\n\n⭐️ Dale una estrella al repositorio en GitHub.\n💬 Comenta en los posts que más te gusten\n📝 Escribe un artículo: Si tienes algo que compartir, ¡escríbeme! Estoy abierto a colaboraciones y artículos invitados."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "The Likelihood Cult",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 25, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 22, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "El blog “The Likelihood Cult” es un espacio dedicado a la explicación de coneptos de estadística, probabilidad, aprendizaje de máquinas y ciencia de datos. Cuyo objetivo es crear contenido de alta calidad en español donde se presenten de manera clara pero rigurosa todo aquello que no se enseña en los cursos de estadística y probabilidad. El blog está dirigido a estudiantes de pregrado y posgrado, así como a profesionales que buscan profundizar en estos temas. La idea es crear un espacio donde se pueda discutir y aprender sobre estos conceptos de manera accesible y comprensible.\n\n\n\n\n Volver arriba"
+  },
+  {
+    "objectID": "about-me.html",
+    "href": "about-me.html",
+    "title": "Christian Badillo",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n\n  \n  \n\n\n\n\n\n\n\n Volver arriba"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "The Likelihood Cult",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n25 abr 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n22 abr 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
   },
   {
     "objectID": "posts/post-with-code/index.html",
     "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code.\n\n\n\n Volver arriba"
   }
 ]

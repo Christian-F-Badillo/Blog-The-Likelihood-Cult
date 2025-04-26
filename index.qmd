@@ -1,14 +1,32 @@
 ---
-title: "The Likelihood Cult"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: ""
+format: 
+    html:
+        toc: false
+        number-sections: false
 ---
 
+```{=html}
+<div class="intro">
+  <h1>Bienvenid@ a The Likelihood Cult 👁️‍🗨️</h1>
+  <p>
+    Este sitio explora los fundamentos de los métodos estadísticos que usamos (y abusamos) todos los días. 
+    Aquí no encontrarás recetas rápidas, sino explicaciones desde la raíz: teoría, visualizaciones, y simulaciones. 
+  </p>
+  <p><em>¡Únete al culto de la verosimilitud!</em></p>
+</div>
+```
+## Explora
 
+- 📚 [Blog](blog.html): Ejemplos con código y teoría.
+- 🔗 [Sobre mí](about-me.html): Descubre quién soy.
+
+## Contribuye
+
+Si te gusta el contenido, considera contribuir. Puedes hacerlo de varias maneras:
+
+- ⭐️ **Dale una estrella** al repositorio en GitHub.
+
+- 💬 **Comenta** en los posts que más te gusten
+
+- 📝 **Escribe un artículo**: Si tienes algo que compartir, [¡escríbeme!](mailto:cris.badillo1408@gmail.com) Estoy abierto a colaboraciones y artículos invitados.

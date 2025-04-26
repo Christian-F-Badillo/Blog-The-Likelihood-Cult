@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+/* Base Colors */
+$body-bg: #f2f9fd;          // azul cielo muy claro
+$body-color: #2c3e50;       // gris azulado oscuro para legibilidad
+
+/* Links */
+$link-color: #5dade2;       // azul suave
+$link-hover-color: darken($link-color, 10%);
+
+/* Navbar */
+$navbar-bg: #d6ecfa;        // azul nube pastel
+$navbar-color: #2c3e50;
+$navbar-hover-color: #1a2a40;
+
+/* Buttons */
+$btn-primary-bg: #a9d6e5;   // azul hielo pastel
+$btn-primary-border: darken($btn-primary-bg, 5%);
+$btn-primary-color: #1f2f3f;
+
+/* Headings */
+$headings-color: #1a2a40;
+
+/* Code Blocks */
+$code-bg: #eaf4f8;          // fondo muy suave para bloques de código
+$code-color: #374a5e;
+
+/* Tables */
+$table-bg: #ffffff;
+$table-striped-bg: #f0f8fb;
+$table-hover-bg: #e0f0f5;
+
+/* Cards */
+$card-bg: #ffffff;
+$card-border-color: #cfe4ed;
+$card-color: #2c3e50;

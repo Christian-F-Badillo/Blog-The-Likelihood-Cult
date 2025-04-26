@@ -1,0 +1,17 @@
+---
+title: "Christian Badillo"
+image: img\blog\profirle.jpg
+about:
+  id: hero-heading
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christian-badillo/
+    - icon: github
+      text: Github
+      href: https://github.com/Christian-F-Badillo
+---
+
+::: {#hero-heading}
+:::

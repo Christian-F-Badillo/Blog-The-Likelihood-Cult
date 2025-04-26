@@ -2,22 +2,79 @@ project:
   type: website
   output-dir: docs
 
+
 website:
+  repo-url: https://github.com/Christian-F-Badillo/Blog-The-Likelihood-Cult
+  repo-actions: [issue, edit, source]
   title: "The Likelihood Cult"
+
+  reader-mode: true
+
+
   navbar:
+    logo: img\blog\logo-blog.png
+    logo-alt: "Logo for the The Likelihood Cult Blog"
+    pinned: true
+
+    toggle-position: left
+    tools-collapse: true
+
     right:
-      - about.qmd
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Posts"
+        href: blog.qmd
+      - text: "Acerca"
+        href: about.qmd
+      
+      - text: "Autor"
+        href: about-me.qmd
+
       - icon: github
         href: https://github.com/
       - icon: twitter
         href: https://twitter.com
 
+  page-footer: 
+    border: true
+    background: info
+  
+  page-navigation: true
+
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  search: 
+    location: navbar
+  
+  open-graph: 
+    locale: es_MX
+    description: "Statistical Blog"
+  
+
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - flatly
+      - pastel.scss
     css: styles.css
 
+    toc: true
+    toc-title: "Tabla de Contenido"
+    toc-depth: 3
+    code-line-numbers: true
+    code-fold: show
+    code-copy: true
+    code-overflow: scroll
+    code-block-border-left: warning
+    code-block-bg: false
+    highlight-style: github
+    code-link: false
+    link-external-icon: true
 
+lang: es
+
+execute: 
+  cache: true
+  freeze: auto
 

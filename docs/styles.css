@@ -1,1 +1,10 @@
 /* css styles */
+
+.navbar-brand img {
+    height: 80px !important;
+    max-height: none;
+  }
+
+  p {
+    text-align: justify;
+  }
