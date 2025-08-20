@@ -83,3 +83,4 @@ execute:
 resources: 
   - robots.txt
   - 404.html
+  - img/

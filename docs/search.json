@@ -11,7 +11,7 @@
     "href": "blog.html",
     "title": "The Likelihood Cult",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n25 abr 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\nNo hay resultados\n\n Volver arriba"
+    "text": "Análisis Factorial\n\n\n\n\n\n\n\n\n17 jul 2025\n\n\nChristian Badillo\n\n\n\n\n\nNo hay resultados\n Volver arriba"
   },
   {
     "objectID": "about-me.html",
@@ -47,5 +47,12 @@
     "title": "Bienvenid@ a The Likelihood Cult 👁️‍🗨️",
     "section": "Contribuye",
     "text": "Contribuye\nSi te gusta el contenido, considera contribuir. Puedes hacerlo de varias maneras:\n\n⭐️ Dale una estrella al repositorio en GitHub.\n💬 Comenta en los posts que más te gusten\n📝 Escribe un artículo: Si tienes algo que compartir, ¡escríbeme! Estoy abierto a colaboraciones y artículos invitados."
+  },
+  {
+    "objectID": "posts/Factorial_Analysis/index.html",
+    "href": "posts/Factorial_Analysis/index.html",
+    "title": "Análisis Factorial",
+    "section": "",
+    "text": "Introducción\nEl análisis factorial es una herramienta estadística que permite reducir la dimensionalidad de los datos al buscar patrones subyacentes en las variables observadas. Es ampliamente utilizado en psicología, marketing y otras disciplinas para identificar factores latentes que explican la variabilidad en los datos. Su objetivo es simplificar la interpretación de grandes conjuntos de datos al agrupar variables correlacionadas en factores comunes, facilitando así el análisis y la visualización de la información.\n\n\n\n\n\n\nFigura 1: Visualizando el Análisis Factorial.\n\n\n\n\n\n\n\n Volver arriba"
   }
 ]

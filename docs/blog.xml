@@ -17,29 +17,38 @@
 <height>144</height>
 <width>144</width>
 </image>
-<generator>quarto-1.6.42</generator>
-<lastBuildDate>Fri, 25 Apr 2025 06:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Thu, 17 Jul 2025 06:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/posts/post-with-code/</link>
+  <title>Análisis Factorial</title>
+  <dc:creator>Christian Badillo</dc:creator>
+  <link>https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/posts/Factorial_Analysis/</link>
   <description><![CDATA[ 
 
 
 
 
 
-<p>This is a post with executable code.</p>
+<section id="introducción" class="level1">
+<h1>Introducción</h1>
+<p>El análisis factorial es una herramienta estadística que permite reducir la dimensionalidad de los datos al buscar patrones subyacentes en las variables observadas. Es ampliamente utilizado en psicología, marketing y otras disciplinas para identificar factores latentes que explican la variabilidad en los datos. Su objetivo es simplificar la interpretación de grandes conjuntos de datos al agrupar variables correlacionadas en factores comunes, facilitando así el análisis y la visualización de la información.</p>
+<div id="fig-factoranalysis" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-factoranalysis-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/img/img-posts/Factorial_Analysis/animacion_espacio_factorial.gif" style="width:100.0%;height:50.0%" class="figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-factoranalysis-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;1: Visualizando el Análisis Factorial.
+</figcaption>
+</figure>
+</div>
 
 
+</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Volver arriba</a> ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/posts/post-with-code/</guid>
-  <pubDate>Fri, 25 Apr 2025 06:00:00 GMT</pubDate>
-  <media:content url="https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://christian-f-badillo.github.io/Blog-The-Likelihood-Cult/posts/Factorial_Analysis/</guid>
+  <pubDate>Thu, 17 Jul 2025 06:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
